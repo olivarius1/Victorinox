@@ -340,6 +340,7 @@ rules:
  - DOMAIN,ocws.officeapps.live.com,DIRECT
  - DOMAIN,self.events.data.microsoft.com,DIRECT
  - DOMAIN,mobile.pipe.aria.microsoft.com,DIRECT
+ - DOMAIN-SUFFIX,appcenter.ms,DIRECT
  - DST-PORT,3306,DIRECT
  - DOMAIN,yacd.haishan.me,DIRECT
  - DOMAIN,clash.razord.top,DIRECT
