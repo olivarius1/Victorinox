@@ -292,6 +292,7 @@ rules:
  - DOMAIN-SUFFIX,steamstatic.com.8686c.com,DIRECT
  - DOMAIN-SUFFIX,steamchina.com,DIRECT
  - DOMAIN-SUFFIX,qtlglb.com,DIRECT
+ - DOMAIN-SUFFIX,wpscdn.com,DIRECT
  - DOMAIN,steambroadcast.akamaized.net,🎮 Steam 商店/社区
  - DOMAIN,steamcdn-a.akamaihd.net,🎮 Steam 商店/社区
  - DOMAIN,steamcommunity-a.akamaihd.net,🎮 Steam 商店/社区
